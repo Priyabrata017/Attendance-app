@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "888102218263",
+    "firebase_url": "https://vssutattendance.firebaseio.com",
+    "project_id": "vssutattendance",
+    "storage_bucket": "vssutattendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888102218263:android:906139390c6c4a73",
+        "android_client_info": {
+          "package_name": "com.attend.attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888102218263-u826mt67kjhad6b61f46bhbeb2iktiru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlYP0QqmCZME8usc4mWqVFX7PZWCmQHfM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
